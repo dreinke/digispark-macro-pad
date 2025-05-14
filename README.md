@@ -81,4 +81,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-Made with ❤️ using ATTiny85, buttons and good intentions.
+Made with ❤️ using ATTiny85, buttons, ChatGPT, and good intentions.
